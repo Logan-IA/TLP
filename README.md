@@ -10,7 +10,7 @@ print ("hola mundo")
 
 ![Actividad 1](image.png)
 
-#Tarea 997
+##Tarea 997
 "Elijan un ejercicio del capítulo uno sección 1.12 y prográmenlo."
 El ejercicio a realizar fue el 1.11. En este ejercicio se le pedía al lector que se demostrara como usar "python´s list comprehenesion syntax" para producir una lista con los siguientes dígitos (1, 2 4, 8 ,16, 32, 64, 128, 256)
 Observamos que la lista está compuesta de duplicar un número (x*2)
