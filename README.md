@@ -8,7 +8,7 @@ Actividad #1
 El código a usar es:
 print ("hola mundo")
 
-image.png
+![Actividad 1](image.png)
 
 #Tarea 997
 "Elijan un ejercicio del capítulo uno sección 1.12 y prográmenlo."
