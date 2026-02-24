@@ -38,6 +38,7 @@ Sabiendo esto realizaremos lo sigueinte:
 Para esta tarea, se eligió el projecto 2.33 en donde realizaremos un código para derivar funciones polinómicas.
 Para empezar este código, y sin hacernos muchas bolas, iremos directo al punto:
 
-1) Primero vamos a escribir el comando "polynomial = input("Enter a polynomial: ")" 
+1) Primero vamos a escribir el comando "polynomial = input("Enter a polynomial: ")". Con esto, le pediremos al usuario que ingrese un polinomio para derivar y luego lo guarda en la variable "polynomial". Por ejemplo "x^5.
+2) 
 
 ![#Tarea 996](Captura%20de%20pantalla%202026-02-23%20212542.png)
