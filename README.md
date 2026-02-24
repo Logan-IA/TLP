@@ -39,6 +39,9 @@ Para esta tarea, se eligió el projecto 2.33 en donde realizaremos un código pa
 Para empezar este código, y sin hacernos muchas bolas, iremos directo al punto:
 
 1) Primero vamos a escribir el comando "polynomial = input("Enter a polynomial: ")". Con esto, le pediremos al usuario que ingrese un polinomio para derivar y luego lo guarda en la variable "polynomial". Por ejemplo "x^5.
-2) 
+2) Después, con el comando "terms = polynomial.replace(" ", "").split("+")" haremos que con el "replace" elimine los espacios y con el "split" separe los términos en una lista.
+2.5) Con "derivate = []" lo usaremos para guardar info de la derivada.
+3) Luego, escribiremos "for term in terms:" para crear un bulce que vaya por cada termino que separó el comadno "split"
+3.5) Con "if "x^" in term:" detectará si hay algún termino elevado a una potencia para después dividirlo en dos partes con el comando "coef, power = term.split("x^")"
 
 ![#Tarea 996](Captura%20de%20pantalla%202026-02-23%20212542.png)
