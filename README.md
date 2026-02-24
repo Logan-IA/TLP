@@ -34,6 +34,10 @@ Sabiendo esto realizaremos lo sigueinte:
 ---
 
 #Tarea 996
-"
+"Elijan un ejercicio del apartado de proyectos del capítulo 2 sección 2.7 y prográmenlo."
+Para esta tarea, se eligió el projecto 2.33 en donde realizaremos un código para derivar funciones polinómicas.
+Para empezar este código, y sin hacernos muchas bolas, iremos directo al punto:
+
+1) Primero vamos a escribir el comando "polynomial = input("Enter a polynomial: ")" 
 
 ![#Tarea 996](Captura%20de%20pantalla%202026-02-23%20212542.png)
