@@ -29,6 +29,6 @@ Sabiendo esto realizaremos lo sigueinte:
    "powers_of_two = [2**i for i in a range (9)]"
    "print (powers_of_two)"
 
-![#Tarea 997](Captura-de-pantalla-2026-02-23-154046.png)
+![#Tarea 997](Captura%20de%20pantalla%202026-02-23%20154046.png)
 
 ---
