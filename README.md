@@ -34,3 +34,6 @@ Sabiendo esto realizaremos lo sigueinte:
 ---
 
 #Tarea 996
+"
+
+![#Tarea 996](Captura%20de%20pantalla%202026-02-23%20212542.png)
